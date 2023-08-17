@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StackExpression
+comment1.params=max
+comment1.target=StackExpression(int)
+comment2.params=x
+comment2.target=void\ push(char)
+comment3.params=
+comment3.target=char\ pop()
+comment4.params=
+comment4.target=char\ peek()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+numComments=6
