@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NonMember
+comment1.params=
+comment1.target=NonMember()
+comment2.params=n\ ic\ ad\ child\ d\ w\ c
+comment2.target=NonMember(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ boolean,\ boolean)
+comment3.params=n\ ic\ ad\ child\ d\ w\ c
+comment3.target=void\ setNonMember(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ boolean,\ boolean)
+comment4.params=
+comment4.target=boolean\ getCoupon()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=double\ discountPrice()
+comment7.params=
+comment7.target=double\ calculateTotalPrice()
+numComments=8

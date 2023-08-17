@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Member
+comment1.params=
+comment1.target=Member()
+comment2.params=n\ ic\ ad\ child\ d\ w\ mi\ mt
+comment2.target=Member(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ boolean,\ java.lang.String,\ java.lang.String)
+comment3.params=n\ ic\ ad\ child\ d\ w\ mi\ mt
+comment3.target=void\ setMember(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ boolean,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMemberId()
+comment5.params=
+comment5.target=java.lang.String\ getMemberType()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=double\ discountPrice()
+comment8.params=
+comment8.target=double\ calculateTotalPrice()
+numComments=9
